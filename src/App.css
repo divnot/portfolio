@@ -4,17 +4,35 @@ body{
 
 }
 
-#imo{
-  filter: drop-shadow(0px 0px 15px green);
+
+img{
+  filter: drop-shadow(0px 0px 12px green);
+  transition: all 2s linear;
+
 }
+img:hover{
+  transform: rotateY(360deg);
+ 
+}
+
+
 body{
   background-image: url("https://66.media.tumblr.com/7ff308033a54530f85ee09ab903798c8/tumblr_ol4k41eNsM1vsjcxvo2_r2_540.gif ");
   background-repeat: no-repeat;
   background-size: cover;
+ 
 
 }
+html {
+  scroll-behavior: smooth;
+}
+h1{
+  filter: drop-shadow(0px 0px 3px green);
+}
+h2{
+  filter: drop-shadow(0px 0px 3px green);
 
-
+}
 
 
 #burg{
