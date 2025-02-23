@@ -51,21 +51,18 @@ h2{
 }
 .animate{
  flex-wrap: nowrap;
+ overflow: hidden;
 }
 
 .slide{
   display: flex;
-  overflow:hidden;
- 
+  animation: slider 25s linear infinite ;
 }
-.three{
-  animation: slider 3s linear infinite ;
-  
-}
+
 
 @keyframes slider {
   from{
-    transform: translate(0%);
+    transform: translate(0);
   }
   to{
     transform: translate(-100%);

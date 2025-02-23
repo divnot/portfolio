@@ -173,17 +173,17 @@ function App() {
 
       <div  data-aos="fade-down"  data-aos-duration='1000'className='lg:flex gap-2  grid sm:grid-cols-1'>
         <div className='flex  gap-2 '>
-          <div><img className='lg:w-64 md:h-64 w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHquDOOcSvKwA/feedshare-shrink_800/feedshare-shrink_800/0/1717836671455?e=1743033600&v=beta&t=qF7lxpr12ZGU2AlIVahn_TTWCRSd0plAB34My3Hwp9k" alt="noimage" /></div>
-          <div><img className='lg:w-64 md:h-64  w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_800/feedshare-shrink_800/0/1717836674124?e=1743033600&v=beta&t=litSEL5kMDEQCU_2POn0-uY7ZgjWGsRRLjJDHfWw0RY" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQFIxZoDyzK3DA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836668751?e=1743033600&v=beta&t=vSFKnSrUOzSDsBpmoqalV7qInIhfd3yG6C8W40rqyDI" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHrCXBOFhg0Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836669543?e=1743033600&v=beta&t=_w-cforqbDGF_qYEwJgzuu_w7gZ4T-1pcosrtpACvic" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64 w-60 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHquDOOcSvKwA/feedshare-shrink_800/feedshare-shrink_800/0/1717836671455?e=1743033600&v=beta&t=qF7lxpr12ZGU2AlIVahn_TTWCRSd0plAB34My3Hwp9k" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64  w-60 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_800/feedshare-shrink_800/0/1717836674124?e=1743033600&v=beta&t=litSEL5kMDEQCU_2POn0-uY7ZgjWGsRRLjJDHfWw0RY" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-60 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQFIxZoDyzK3DA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836668751?e=1743033600&v=beta&t=vSFKnSrUOzSDsBpmoqalV7qInIhfd3yG6C8W40rqyDI" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-60 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHrCXBOFhg0Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836669543?e=1743033600&v=beta&t=_w-cforqbDGF_qYEwJgzuu_w7gZ4T-1pcosrtpACvic" alt="noimage" /></div>
 
         </div>
         <div className='flex gap-2'>
-          <div><img className='lg:w-64 md:h-64  w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836674124?e=1743033600&v=beta&t=3J7g1umpC9obfMydgiDDNfPyoYaC7oNmvAJKymL_UtY" alt="noimage" /></div>
-          <div><img className='lg:w-64 md:h-64 w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQG6wbHQOt2WZg/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836676692?e=1743033600&v=beta&t=0SkrZI_zLo_dbMPtB0KrRikO5Z0y4OtAvCDHYZP0Vj0" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHIo07KNutazQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836683184?e=1743033600&v=beta&t=2kkgbHT0Gwq_J9pLK5F3Pig_ENaoTdTewobHyHiC954" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48' src="https://pbs.twimg.com/card_img/1892587913629798400/D5L2qmO7?format=jpg&name=medium" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64  w-60 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836674124?e=1743033600&v=beta&t=3J7g1umpC9obfMydgiDDNfPyoYaC7oNmvAJKymL_UtY" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64 w-60 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQG6wbHQOt2WZg/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836676692?e=1743033600&v=beta&t=0SkrZI_zLo_dbMPtB0KrRikO5Z0y4OtAvCDHYZP0Vj0" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-60 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHIo07KNutazQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836683184?e=1743033600&v=beta&t=2kkgbHT0Gwq_J9pLK5F3Pig_ENaoTdTewobHyHiC954" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-60 lg:h-64 md:h-64 h-48' src="https://pbs.twimg.com/card_img/1892587913629798400/D5L2qmO7?format=jpg&name=medium" alt="noimage" /></div>
 
         </div>
       </div>
