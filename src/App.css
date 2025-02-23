@@ -49,6 +49,29 @@ h2{
   transform-style: preserve-3d;
   transition: all 0.5s ease;
 }
+.animate{
+ flex-wrap: nowrap;
+}
+
+.slide{
+  display: flex;
+  overflow:hidden;
+ 
+}
+.three{
+  animation: slider 3s linear infinite ;
+  
+}
+
+@keyframes slider {
+  from{
+    transform: translate(0%);
+  }
+  to{
+    transform: translate(-100%);
+  }
+  
+}
 
 .cardfront{
   position: absolute;

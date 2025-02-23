@@ -169,21 +169,21 @@ function App() {
     <section  className='p-20'> 
       <p data-aos="fade-up"  data-aos-duration='1000'  className='text-center font-bold lg:text-4xl p-5 text-white md:text-3xl text-2xl'><a href="#">Click to visit My github</a></p>
 
-      <h2 className='text-center font-bold lg:text-4xl p-5 underline text-white md:text-3xl text-2xl m-10'>Achivements</h2>
+      <h2 className='text-center font-bold lg:text-5xl underline text-white md:text-3xl text-2xl m-10'>Achivements</h2>
 
-      <div  data-aos="fade-down"  data-aos-duration='1000'className='lg:flex gap-2 grid sm:grid-cols-1'>
+      <div  data-aos="fade-down"  data-aos-duration='1000'className='lg:flex gap-2  grid sm:grid-cols-1'>
         <div className='flex  gap-2 '>
-          <div><img className='lg:w-60 w-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHquDOOcSvKwA/feedshare-shrink_800/feedshare-shrink_800/0/1717836671455?e=1743033600&v=beta&t=qF7lxpr12ZGU2AlIVahn_TTWCRSd0plAB34My3Hwp9k" alt="noimage" /></div>
-          <div><img className='lg:w-60 w-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_800/feedshare-shrink_800/0/1717836674124?e=1743033600&v=beta&t=litSEL5kMDEQCU_2POn0-uY7ZgjWGsRRLjJDHfWw0RY" alt="noimage" /></div>
-          <div><img className='lg:w-60 w-48 lg:h-64 md:h-48 h-24 ' src="https://media.licdn.com/dms/image/v2/D5622AQFIxZoDyzK3DA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836668751?e=1743033600&v=beta&t=vSFKnSrUOzSDsBpmoqalV7qInIhfd3yG6C8W40rqyDI" alt="noimage" /></div>
-          <div><img className='lg:w-60 w-48 lg:h-64 md:h-48 h-24 ' src="https://media.licdn.com/dms/image/v2/D5622AQHrCXBOFhg0Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836669543?e=1743033600&v=beta&t=_w-cforqbDGF_qYEwJgzuu_w7gZ4T-1pcosrtpACvic" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64 w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHquDOOcSvKwA/feedshare-shrink_800/feedshare-shrink_800/0/1717836671455?e=1743033600&v=beta&t=qF7lxpr12ZGU2AlIVahn_TTWCRSd0plAB34My3Hwp9k" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64  w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_800/feedshare-shrink_800/0/1717836674124?e=1743033600&v=beta&t=litSEL5kMDEQCU_2POn0-uY7ZgjWGsRRLjJDHfWw0RY" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQFIxZoDyzK3DA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836668751?e=1743033600&v=beta&t=vSFKnSrUOzSDsBpmoqalV7qInIhfd3yG6C8W40rqyDI" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHrCXBOFhg0Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836669543?e=1743033600&v=beta&t=_w-cforqbDGF_qYEwJgzuu_w7gZ4T-1pcosrtpACvic" alt="noimage" /></div>
 
         </div>
         <div className='flex gap-2'>
-          <div><img className='lg:w-60 w-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836674124?e=1743033600&v=beta&t=3J7g1umpC9obfMydgiDDNfPyoYaC7oNmvAJKymL_UtY" alt="noimage" /></div>
-          <div><img className='lg:w-60 w-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQG6wbHQOt2WZg/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836676692?e=1743033600&v=beta&t=0SkrZI_zLo_dbMPtB0KrRikO5Z0y4OtAvCDHYZP0Vj0" alt="noimage" /></div>
-          <div><img className='lg:w-60 w-48 lg:h-64 md:h-48 h-24 ' src="https://media.licdn.com/dms/image/v2/D5622AQHIo07KNutazQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836683184?e=1743033600&v=beta&t=2kkgbHT0Gwq_J9pLK5F3Pig_ENaoTdTewobHyHiC954" alt="noimage" /></div>
-          <div><img className='lg:w-60 w-48 lg:h-64 md:h-48 h-24' src="https://pbs.twimg.com/card_img/1892587913629798400/D5L2qmO7?format=jpg&name=medium" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64  w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836674124?e=1743033600&v=beta&t=3J7g1umpC9obfMydgiDDNfPyoYaC7oNmvAJKymL_UtY" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64 w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQG6wbHQOt2WZg/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836676692?e=1743033600&v=beta&t=0SkrZI_zLo_dbMPtB0KrRikO5Z0y4OtAvCDHYZP0Vj0" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHIo07KNutazQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836683184?e=1743033600&v=beta&t=2kkgbHT0Gwq_J9pLK5F3Pig_ENaoTdTewobHyHiC954" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48' src="https://pbs.twimg.com/card_img/1892587913629798400/D5L2qmO7?format=jpg&name=medium" alt="noimage" /></div>
 
         </div>
       </div>
@@ -285,26 +285,30 @@ function App() {
       </div>
 
           <h2 id="fil"  data-aos="fade-down"  data-aos-duration='1000' className='lg:text-6xl  text-4xl  text-white font-bold pt-20 text-center'>Languages</h2>
-       <div className='lg:flex gap-2 pt-32 grid sm:grid-cols-1  '>
-        <div className='flex  gap-2 '>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/349402/html5.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/373535/css.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/373705/js-official.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/374061/sass.svg" alt="noimage" /></div>
+      
 
-        </div>
-        <div className='flex gap-2'>
-          <div><img className='w-40  ' src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/452210/git.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://www.svgrepo.com/show/452207/framer.svg" alt="noimage" /></div>
-          <div><img className='w-40  ' src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="noimage" /></div>
-
+      <div className='animate pt-6'>
+        <div className='slide lg:gap-4 gap-2'>
+         
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/373535/css.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/373705/js-official.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/452092/react.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/374061/sass.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/452210/git.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/452207/framer.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/452207/framer.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/475654/github-color.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="noimage" />
+          < img className ='w-40  three' src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="noimage" />
         </div>
       </div>
+
+
 
     </section>
 
