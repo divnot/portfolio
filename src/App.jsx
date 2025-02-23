@@ -66,8 +66,8 @@ function App() {
       <div className='grid lg:grid-cols-2  sm:grid-cols-1   justify-items-center items-center'>
         <div className='mt-10'><img className='lg:w-72 w-40  ' src="https://pbs.twimg.com/media/GkZP9r3XkAA3Vjh?format=jpg&name=small" alt="noimage" /></div>
         <div className='mt-10'> 
-          <h1 data-aos="fade-down" data-aos-duration='500'  className='text-white text-4xl font-bold text-center p-6'>About me</h1>
-        <h2  data-aos="fade-down" data-aos-duration='1000'  className='text-white text-2xl font-bold p-6  text-center'>Hi! I'm <span className='text-red-600'> Morgan-wen</span> Morgan-wen, a web developer and programmer.</h2> <br/>
+          <p data-aos="fade-down" data-aos-duration='500'  className='text-white text-4xl font-bold text-center p-6'>About me</p>
+        <p  data-aos="fade-down" data-aos-duration='1000'  className='text-white text-2xl font-bold p-6  text-center'>Hi! I'm <span className='text-red-600'> Morgan-wen</span> Morgan-wen, a web developer and programmer.</p> <br/>
           <p  data-aos="fade-down" data-aos-duration='1000'  id="para" className='text-white p-6 overflow-auto md:overflow-y-scroll h-48 first-line:text-red-700 text-center'>A highly motivated and skilled Frontend Developer with a strong foundation in core web technologies, including HTML, CSS, JavaScript, and React.  Proficient in building responsive and user-friendly web applications, leveraging modern frameworks like Tailwind CSS and Bootstrap for efficient styling and layout.  Experienced in utilizing Git and GitHub for version control and collaborative development, ensuring seamless teamwork and code management.  Adept at translating design mockups and wireframes into clean, well-documented, and maintainable code.  Possesses excellent problem-solving and debugging skills, with a keen eye for detail and a commitment to delivering high-quality user experiences.  Effective communicator, fluent in Hindi and English, with a basic understanding of French.  Eager to contribute to innovative projects and continuously expand my skillset in the ever-evolving world of frontend development.</p>
           <hr/>
           <div  data-aos="fade-up" data-aos-duration='1000'  className='grid lg:grid-cols-2  sm:grid-cols-1'>
@@ -91,7 +91,7 @@ function App() {
       <h1  data-aos="fade-up" data-aos-duration='1000'  className='text-white text-6xl pb-6 underline text-center font-bold'>Portfolio</h1>
       <div data-aos="fade-up"  data-aos-duration='1000' className='grid lg:grid-cols-2  grid-cols-1 justify-items-center pt-10 items-center'>
         <div className='lg:order-none  order-1' >
-          <h1 className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+          <p className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p  className='text-center text-white p-3'>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -101,7 +101,7 @@ function App() {
 
       <div data-aos="fade-up" data-aos-duration='1000' className='grid lg:grid-cols-2  grid-cols-1 justify-items-center items-center pt-10'>
         <div className='lg:order-none  order-1'>
-        <h1  className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+        <p  className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p  className='text-center text-white p-3'>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -112,7 +112,7 @@ function App() {
 
       <div data-aos="fade-up" data-aos-duration='1000' className='grid lg:grid-cols-2  grid-cols-1 justify-items-center pt-10 items-center'>
         <div className='lg:order-none  order-1'>
-        <h1  className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+        <p  className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p  className='text-center text-white p-3 '>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -123,7 +123,7 @@ function App() {
 
       <div data-aos="fade-up" data-aos-duration='1000' className='grid lg:grid-cols-2  grid-cols-1 justify-items-center  pt-10 items-center'>
         <div className='lg:order-none  order-1'>
-        <h1  className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+        <p  className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p  className='text-center text-white p-3'>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -134,7 +134,7 @@ function App() {
 
       <div data-aos="fade-up" data-aos-duration='1000' className='grid lg:grid-cols-2  grid-cols-1 pt-10 justify-items-center items-center'>
         <div className='lg:order-none  order-1' >
-        <h1  className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+        <p  className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p className='text-center text-white p-3'>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -145,7 +145,7 @@ function App() {
 
       <div data-aos="fade-up" data-aos-duration='1000' className='grid lg:grid-cols-2  grid-cols-1 pt-10 justify-items-center items-center'>
         <div  className='lg:order-none  order-1'>
-        <h1  className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+        <p className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p  className='text-center text-white p-3'>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -156,7 +156,7 @@ function App() {
 
       <div data-aos="fade-up" data-aos-duration='1000' className='grid lg:grid-cols-2 pt-10 grid-cols-1 justify-items-center items-center'>
         <div className='lg:order-none  order-1'>
-        <h1  className='text-center text-white text-4xl font-bold'>Captiz-movies</h1>
+        <p   className='text-center text-white text-4xl font-bold'>Captiz-movies</p>
           <p  className='text-center text-white p-3'>Developed "Captiz-Movies," a multi-page movie website using React, enhancing user experience with dynamic routing powered by React Router. Implemented efficient data fetching and caching with React Query, optimizing performance and simplifying asynchronous state management.  Integrated user feedback functionality, enabling users to add and delete feedback, contributing to a more interactive and engaging platform.  This project showcases proficiency in modern React development practices, including API integration, dynamic routing, and user interface design.</p>
         </div>
         <div>
@@ -173,17 +173,17 @@ function App() {
 
       <div  data-aos="fade-down"  data-aos-duration='1000'className='lg:flex gap-2  grid sm:grid-cols-1'>
         <div className='flex  gap-2 '>
-          <div><img className='lg:w-64 md:h-64 w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHquDOOcSvKwA/feedshare-shrink_800/feedshare-shrink_800/0/1717836671455?e=1743033600&v=beta&t=qF7lxpr12ZGU2AlIVahn_TTWCRSd0plAB34My3Hwp9k" alt="noimage" /></div>
-          <div><img className='lg:w-64 md:h-64  w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_800/feedshare-shrink_800/0/1717836674124?e=1743033600&v=beta&t=litSEL5kMDEQCU_2POn0-uY7ZgjWGsRRLjJDHfWw0RY" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQFIxZoDyzK3DA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836668751?e=1743033600&v=beta&t=vSFKnSrUOzSDsBpmoqalV7qInIhfd3yG6C8W40rqyDI" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHrCXBOFhg0Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836669543?e=1743033600&v=beta&t=_w-cforqbDGF_qYEwJgzuu_w7gZ4T-1pcosrtpACvic" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64 w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHquDOOcSvKwA/feedshare-shrink_800/feedshare-shrink_800/0/1717836671455?e=1743033600&v=beta&t=qF7lxpr12ZGU2AlIVahn_TTWCRSd0plAB34My3Hwp9k" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64  w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_800/feedshare-shrink_800/0/1717836674124?e=1743033600&v=beta&t=litSEL5kMDEQCU_2POn0-uY7ZgjWGsRRLjJDHfWw0RY" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQFIxZoDyzK3DA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836668751?e=1743033600&v=beta&t=vSFKnSrUOzSDsBpmoqalV7qInIhfd3yG6C8W40rqyDI" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHrCXBOFhg0Fw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836669543?e=1743033600&v=beta&t=_w-cforqbDGF_qYEwJgzuu_w7gZ4T-1pcosrtpACvic" alt="noimage" /></div>
 
         </div>
         <div className='flex gap-2'>
-          <div><img className='lg:w-64 md:h-64  w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836674124?e=1743033600&v=beta&t=3J7g1umpC9obfMydgiDDNfPyoYaC7oNmvAJKymL_UtY" alt="noimage" /></div>
-          <div><img className='lg:w-64 md:h-64 w-48 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQG6wbHQOt2WZg/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836676692?e=1743033600&v=beta&t=0SkrZI_zLo_dbMPtB0KrRikO5Z0y4OtAvCDHYZP0Vj0" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHIo07KNutazQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836683184?e=1743033600&v=beta&t=2kkgbHT0Gwq_J9pLK5F3Pig_ENaoTdTewobHyHiC954" alt="noimage" /></div>
-          <div><img className='lg:w-64 w-48 lg:h-64 md:h-64 h-48' src="https://pbs.twimg.com/card_img/1892587913629798400/D5L2qmO7?format=jpg&name=medium" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64  w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQF_SQ7Gi_v8xQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836674124?e=1743033600&v=beta&t=3J7g1umpC9obfMydgiDDNfPyoYaC7oNmvAJKymL_UtY" alt="noimage" /></div>
+          <div><img className='lg:w-64 md:h-64 w-52 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQG6wbHQOt2WZg/feedshare-shrink_1280/feedshare-shrink_1280/0/1717836676692?e=1743033600&v=beta&t=0SkrZI_zLo_dbMPtB0KrRikO5Z0y4OtAvCDHYZP0Vj0" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48 ' src="https://media.licdn.com/dms/image/v2/D5622AQHIo07KNutazQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1717836683184?e=1743033600&v=beta&t=2kkgbHT0Gwq_J9pLK5F3Pig_ENaoTdTewobHyHiC954" alt="noimage" /></div>
+          <div><img className='lg:w-64 w-52 lg:h-64 md:h-64 h-48' src="https://pbs.twimg.com/card_img/1892587913629798400/D5L2qmO7?format=jpg&name=medium" alt="noimage" /></div>
 
         </div>
       </div>
