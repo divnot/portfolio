@@ -29,7 +29,7 @@ function App() {
       </div>
       <div className='p-3' > 
       
-      <span className='flex text-white  gap-3' > <button className=' bg-red-700  lg:w-40 w-20 rounded  h-6 text-white '>Connect</button></span>
+      <span className='flex text-white  gap-3' > <button className=' bg-red-700  lg:w-40 w-20 rounded  cursor-pointer h-6 text-white '><a href="divyansh377590@gmail.com">connect</a></button></span>
       </div>
       <div  id="burg" className='pt-3' > 
         <button className='bg-white'   onClick={handlenav}><GiHamburgerMenu /></button>
@@ -167,9 +167,9 @@ function App() {
     </section>
 
     <section  className='p-20'> 
-      <p data-aos="fade-up"  data-aos-duration='1000'  className='text-center font-bold lg:text-4xl p-5 text-white md:text-3xl text-2xl'><a href="#">Click to visit My github</a></p>
+      <p data-aos="fade-up"  data-aos-duration='1000'  className='text-center font-bold lg:text-4xl p-5 text-white md:text-3xl  animate-bounce cursor-pointer text-2xl'><a href="#">Click to visit My github</a></p>
 
-      <h2 className='text-center font-bold lg:text-5xl underline text-white md:text-3xl text-2xl m-10'>Achivements</h2>
+      <h2 className='text-center font-bold lg:text-5xl underline text-white md:text-3xl text-2xl m-10  '>Achivements</h2>
 
       <div  data-aos="fade-down"  data-aos-duration='1000'className='lg:flex gap-2  grid sm:grid-cols-1'>
         <div className='flex  gap-2 '>
@@ -192,7 +192,7 @@ function App() {
     </section>
 
     <section id="skills" className='p-24 bg-[#0E0B16]  w-screen'>
-      <h2  data-aos="fade-down"  data-aos-duration='1000' id="fil" className='text-center font-bold lg:text-6xl  text-5xl  pb-12 text-white '> Skills</h2>
+      <h2  data-aos="fade-down"  data-aos-duration='1000' id="fil" className='text-center font-bold lg:text-6xl  text-5xl   pb-12 text-white '> Skills</h2>
 
       <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-3 w-auto justify-items-center items-center ' >
         <div className='maincard'>
@@ -324,7 +324,7 @@ function App() {
         <input className='lg:w-96 h-10 rounded w-auto p-6'  id="email" type="email" /><br/>
         <label className='text-white text-2xl' HTMLfor="message" >Message:</label><br/>
         <input className='lg:w-96 h-30 rounded  w-auto p-6'  id="message" type="text" /><br/>
-        <button type="submit" className=" bg-green-800 w-20 mt-4 text-white" >Submit</button>
+        <button type="submit" className=" bg-green-800 w-20 mt-4  text-white" >Submit</button>
         
         
 
@@ -363,12 +363,6 @@ function App() {
     </div>
    </div>
    </footer>
-
-
-
-
-    
-
       
     </>
   )
